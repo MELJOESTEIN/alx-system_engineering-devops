@@ -34,6 +34,7 @@ Requirements:
 19. Replace all characters A and c from input to Z and e respectively.
 20. Create a script that removes all letters c and C from input.
 21. Write a script that reverse its input.
+22. Write a script that displays all users and their home directories, sorted by users.
 
 
 
